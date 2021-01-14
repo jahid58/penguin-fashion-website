@@ -1,0 +1,59 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: roboto,sans-serif;
+}
+.logo{
+    max-width: 250px;
+}
+.header-img{
+    background-color: #fff9f4;
+}
+.all-btn{
+    
+    background-image: linear-gradient(45deg,rgb(62, 31, 197),rgb(16, 12, 243));
+  }
+.buy-now{
+ color: white;
+
+ }
+ .fa-shopping-cart{
+     color: white;
+ }
+ div>img{
+     height: 80px;
+ }
+ 
+.shoe-footer{
+    border: 0 !important;
+    background-color:#ffffff !important;
+}
+.shoe-card{
+border: 0 !important;
+}
+#info{
+    background: linear-gradient(45deg,#000428 , #004e92);
+}
+.company-info{
+    text-align: center;
+    color: white;   
+}
+.contact-info{
+    text-align: center;
+    color: white;
+}
+.products-info{
+    text-align: center;
+    color: white
+}
+footer{
+    text-align: center;
+}
+h1,h3{
+    color:#f8804c; 
+}
+h2,h4,h5,#nike-react{
+    color:#363958;
+    font-weight:bolder;
+}
