@@ -70,8 +70,3 @@ h2,h4,h5,#nike-react{
     color:#363958;
     font-weight:bolder;
 }
-@media only screen and (min-width: 600px) {
-    .all-btn {
-      background-color: lightblue;
-    }
-  }
